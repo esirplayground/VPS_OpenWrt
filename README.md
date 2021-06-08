@@ -15,7 +15,7 @@ Youtube video tutorial(in Mandarin): https://youtu.be/iXhd-h4aVW8
 **Steps**
 
 1.  Upload OpenWrt firmware(WinSCP or prefer), rename it to `op.img.gz` 
-2.  Run: `bash -c "$(wget -O- https://git.io/JGvno)"`
+2.  Run: `bash -c "$(wget -O- https://git.io/JZOn0)"`
  
 **Support Platform :**
 - Google Cloud
