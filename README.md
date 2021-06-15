@@ -4,6 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/esirplayground/VPS_OpenWrt?label=Latest%20Commit&logo=github)
 
 This repo helps to deploy OpenWrt onto your VPS.<br>
+Hereby thank `ptpt52` for his amazing job: https://github.com/x-wrt<br>
 Youtube video tutorial(in Mandarin): https://youtu.be/iXhd-h4aVW8
 
 **Prerequisite**
