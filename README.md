@@ -8,7 +8,7 @@ Hereby thank `ptpt52` for his amazing job: https://github.com/x-wrt<br>
 
 **Tutorial**<br>
 
-Youtube Video [in Mandarin]: https://youtu.be/iXhd-h4aVW8
+Youtube Video [in Mandarin]: 📺https://youtu.be/iXhd-h4aVW8
 
 **Prerequisite**
  - **`Ubuntu`** or **`Debian`** (CentOS/ArchBase Not tested)
