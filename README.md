@@ -5,7 +5,10 @@
 
 This repo helps to deploy OpenWrt onto your VPS.<br>
 Hereby thank `ptpt52` for his amazing job: https://github.com/x-wrt<br>
-Youtube video tutorial(in Mandarin): https://youtu.be/iXhd-h4aVW8
+
+**Tutorial**<br>
+
+Youtube Video [in Mandarin]: https://youtu.be/iXhd-h4aVW8
 
 **Prerequisite**
  - **`Ubuntu`** or **`Debian`** (CentOS/ArchBase Not tested)
