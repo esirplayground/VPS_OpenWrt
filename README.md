@@ -29,6 +29,7 @@ Youtube Video [in Mandarin]: 📺https://youtu.be/iXhd-h4aVW8
 - Racknerd
 - Hostdare
 - Ali Cloud (Domestic)
+- hostEONS
 - ...
 
 **`NOT` Support Platform :**
