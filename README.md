@@ -11,7 +11,7 @@ Hereby thank `ptpt52` for his amazing job: https://github.com/x-wrt<br>
 Youtube Video [in Mandarin]: 📺https://youtu.be/iXhd-h4aVW8
 
 **Prerequisite**
- - **`Ubuntu`** or **`Debian`** (CentOS/ArchBase Not tested)
+ - **`Ubuntu`** or **`Debian`** (CentOS/Arch Based Not tested)
  - **`wget`** installed<br>
    probably you don't need this, but if you do, you could run command below to install `wget`:<br>
    `apt update && apt install -y wget` 
@@ -19,7 +19,7 @@ Youtube Video [in Mandarin]: 📺https://youtu.be/iXhd-h4aVW8
 **Steps**
 
 1.  Upload OpenWrt firmware(WinSCP or prefer), rename it to `op.img.gz` 
-2.  Run: `bash -c "$(wget -O- https://git.io/JZOn0)"`
+2.  Run: `bash -c "$(wget -O- https://git.io/JZOn0)"`  or  `wget -O- https://git.io/JZOn0|bash`
  
 **Support Platform :**
 - Google Cloud
