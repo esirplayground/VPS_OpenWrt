@@ -14,13 +14,21 @@ Youtube Video [in Mandarin]: 📺https://youtu.be/iXhd-h4aVW8
  - **`Ubuntu`** or **`Debian`** (CentOS/Arch Based Not tested)
  - **`wget`** installed<br>
    probably you don't need this, but if you do, you could run command below to install `wget`:<br>
-   `apt update && apt install -y wget` 
-
+    ```Bash
+    apt update && apt install -y wget 
+    ```
 **Steps**
 
 1.  Upload OpenWrt firmware(WinSCP or prefer), rename it to `op.img.gz` 
-2.  Run: `bash -c "$(wget -O- https://git.io/JZOn0)"`  or  `wget -O- https://git.io/JZOn0|bash`
- 
+2.  Run command line below:
+    ```Bash
+    bash -c "$(wget -O- https://git.io/JZOn0)"
+    ```
+    If you have problem with https certificate, then try this:
+
+    ```Bash
+    wget --no-check-certificate -O- https://git.io/JZOn0|bash
+    ```
 **Support Platform :**
 - Google Cloud
 - Azure
