@@ -38,6 +38,7 @@ Youtube Video [in Mandarin]: 📺https://youtu.be/iXhd-h4aVW8
 - Hostdare
 - Ali Cloud (Domestic)
 - hostEONS
+- VMShell
 - ...
 
 **`NOT` Support Platform :**
